@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Quimico
+comment1.params=tablaElementos\ nomb\ nac\ ed
+comment1.target=Quimico(java.lang.String[],\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=elemento
+comment2.target=java.lang.String\ identificarElemento(java.lang.String)
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Fisico
+comment1.params=nomb\ nac\ ed
+comment1.target=Fisico(java.lang.String,\ java.lang.String,\ int)
+comment2.params=vector1\ vector2
+comment2.target=Vector\ sumarVectores(Vector,\ Vector)
+numComments=3

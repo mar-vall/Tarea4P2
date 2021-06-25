@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Matematico
+comment1.params=nomb\ nac\ ed
+comment1.target=Matematico(java.lang.String,\ java.lang.String,\ int)
+comment2.params=x\ y
+comment2.target=double\ sumar(double,\ double)
+comment3.params=x\ y
+comment3.target=double\ restar(double,\ double)
+comment4.params=x\ y
+comment4.target=double\ multiplicar(double,\ double)
+comment5.params=x\ y
+comment5.target=double\ dividir(double,\ double)
+numComments=6
